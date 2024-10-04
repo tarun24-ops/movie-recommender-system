@@ -18,7 +18,7 @@ os.environ['GOOGLE_API_KEY'] = "AIzaSyAzOfotbdOxJ6LJTht8daCw78p9yqgdW1U"  # Repl
 
 
 ## Designing the webpage
-st.title("🎦MARS(Automated Movie Recommender System)")
+st.title("🌩️BOLT(Automated Movie Recommender System📽️)")
 user_input=st.text_input("Enter The Movie Title,\Genre or Keyword🎞️")
 
 # Create a prompt template for generating movie recommendations
