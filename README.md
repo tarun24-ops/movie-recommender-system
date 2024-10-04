@@ -4,7 +4,7 @@ MARS is an Automated Movie Recommender System built using Streamlit and Google G
 
 ## Table of Contents
 
-- [🌩️ MARS (Automated Movie Recommender System)](#-mars-automated-movie-recommender-system)
+- [🌩️BOLT (Automated Movie Recommender System)](#-mars-automated-movie-recommender-system)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
