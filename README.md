@@ -1,10 +1,10 @@
-# 🎦 MARS (Automated Movie Recommender System)
+# 🌩️BOLT(Automated Movie Recommender System📽️)
 
 MARS is an Automated Movie Recommender System built using Streamlit and Google Generative AI. The application allows users to input movie titles, genres, or keywords and receive personalized movie recommendations based on their input.
 
 ## Table of Contents
 
-- [🎦 MARS (Automated Movie Recommender System)](#-mars-automated-movie-recommender-system)
+- [🌩️ MARS (Automated Movie Recommender System)](#-mars-automated-movie-recommender-system)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
