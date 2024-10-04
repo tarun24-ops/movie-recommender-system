@@ -52,6 +52,10 @@ GOOGLE_API_KEY=your_google_api_key_here
 streamlit run app.py
 
 
+![image](https://github.com/user-attachments/assets/0a65bd04-cf4f-4108-b817-4a1d4e7e00dd)
+
+
+
 ### Explanation of Sections
 
 1. **Project Title and Description**: Clearly states what the project is about.
